@@ -16,8 +16,8 @@ const ballRadius = 3
 let x = canvas.width / 2
 let y = canvas.height - 30
 // Velocidad de la pelota
-let dx = 2
-let dy = -2
+let dx = 1
+let dy = -1
 
 // VARIABLES DE LA PALETA
 const paddleHeight = 10
